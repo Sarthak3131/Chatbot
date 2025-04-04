@@ -1,6 +1,6 @@
 # Chatbot
 Project Title
-Email Summarizer and Actionable Insights Generator
+Email Summarizer 
 
 This project simplifies email management by summarizing lengthy email threads and extracting actionable items like deadlines, tasks, and key points. Extracted insights can be organized into to-do lists or calendar events.
 
